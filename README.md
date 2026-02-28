@@ -1,6 +1,24 @@
 
 # 🌍 AI Travel Assistant – Intelligent & Sustainable Tourism (Tunisia MVP)
 
+# 📖 Table of Contents
+
+1. [Overview & Vision](#🚀-overview)  
+2. [System Architecture](#🧠-system-architecture)  
+   - [High-Level Flow](#🔎-high-level-flow)  
+   - [Architecture Layers](#🏗-architecture-layers)  
+3. [Tunisia-Focused MVP](#🇹🇳-tunisia-focused-mvp)  
+4. [Sustainability Focus](#🌱-sustainability-focus)  
+5. [Application Pages](#🖥-application-pages)  
+   - [Landing Page](#🏠-landing-page)  
+   - [Explore Page](#🔍-explore-page)  
+   - [AI Travel Planner](#🧳-ai-travel-planner)  
+   - [Community Submission Page](#🤝-community-submission-page)  
+6. [Tech Stack & Project Structure](#🛠-tech-stack-mvp)  
+7. [Example Use Case](#🧪-example-use-case)  
+8. [Future Enhancements](#📈-future-enhancements)  
+9. [Team](#👥-team)
+
 ## 🚀 Overview
 
 AI Travel Assistant is an intelligent tourism platform designed to:
