@@ -169,7 +169,8 @@ Outputs:
 
 ### 📸 Screenshot
 
-![Community Page Screenshot](./screenshots/community.png)
+![Community Page Screenshot](./screenshots/comm1.png)
+![Community Page Screenshot](./screenshots/comm2.png)
 
 ---
 
