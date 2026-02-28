@@ -12,7 +12,7 @@ Use the **Table of Contents** below to navigate directly to sections of interest
 
 # 📑 Table of Contents
 
-1. [Overview & Vision](#🚀-overview)  
+1. [Overview & Vision](#-overview)  
 2. [System Architecture](#🧠-system-architecture)  
    - [High-Level Flow](#🔎-high-level-flow)  
    - [Architecture Layers](#🏗-architecture-layers)  
